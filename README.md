@@ -2,7 +2,7 @@
 - 👀 I’m interested in ...software development
 - 🌱 I’m currently learning ...python
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...btshreyas27@gmail.com
+- 📫 How to reach me ...btshreyas@gmail.com
 
 <!---
 ShreyasBT/ShreyasBT is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
